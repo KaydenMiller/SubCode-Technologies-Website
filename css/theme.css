@@ -1,0 +1,82 @@
+/* The main theme class */
+body
+{
+    background-color: #999;
+}
+
+p
+{
+	font-size: 1.25em;
+}
+
+.title 
+{
+    color: #9D9D9D;
+    background-color: #222;
+}
+
+.footer
+{
+    color: #9D9D9D;
+    background-color: #222;
+    font-size: 0.75em;
+    text-align: center;
+    width: 100%;
+}
+
+.top-buffer
+{
+	margin-top: 20px;
+}
+
+.project-icon
+{
+	width: 100%;
+}
+
+.text-center
+{
+	text-align: center;
+}
+
+.section-head
+{
+	text-align: center;
+	font-size: 3em;
+}
+
+.btn-submit
+{
+    width: 100%;
+}
+
+.project-divider
+{
+	border: 0.01em solid #555;
+}
+
+.sitemap-catagory
+{
+    font-size: 1.75em;
+    font-weight: bold;
+}
+
+.sitemap-item
+{
+    font-size: 1.25em;
+    text-align: center;
+}
+
+#logo
+{
+	max-height: 60px !Important;
+}
+
+#group_photo
+{
+	margin: 0 auto;
+	display: block;
+	text-align: center;
+}
+
+/* Bootstrap Overrides */
