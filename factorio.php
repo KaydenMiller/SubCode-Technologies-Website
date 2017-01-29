@@ -28,7 +28,7 @@
         <div class="content container">
             <div class="row">
                 <div id="Server Controls" class="col-xs-offset-1 col-xs-10">
-                    <button type="btn btn-primary" onClick="
+                    <button class="btn btn-primary" onClick="
                     <?php
                         shell_exec("/home/scripts/factorio_load_latest.sh");
 
