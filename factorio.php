@@ -13,6 +13,7 @@
 
         <link rel="stylesheet" href="css/bootstrap.min.css" />
         <link rel="stylesheet" href="css/theme.css" />
+        <!-- BLANK COMMENT CAN BE DELETED -->
 
         <!-- Favicon -->
         <link rel="icon" href="resources/Subcode_Logo_Small.ico">
