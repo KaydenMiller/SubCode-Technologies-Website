@@ -10,11 +10,11 @@
         <p>
             In Orbital Outrage you pilot a small space ship in defence of your homeworld. The game progresses in a wave based style. You win by destroying the hostile starbases at the outer edge of your solar system.
             <br>
-            <br> Orbital Outrage was originaly made during the Weber State Summer games. We did it both as a competition and as a learning experiance. We had a team of five developers that build the game in under a week. Our game placed first that year. After we completed the summer games we desided to revamp the game and use it for the Fremont TSA State Game Competion.
+            <br> Orbital Outrage was originaly made during the Weber State Summer games. We did it both as a competition and as a learning experiance. We had a team of five developers that built the game in under a week. Our game placed first that year. After we completed the summer games we desided to revamp the game and use it for the Fremont TSA State Game Competion.
             <br>
             <br> During the development of the game over that year we made many improvements however, it was primarly only two developers who worked on the game during that time. The game was not quite where we wanted it to be when the competition came around but it was not far off. Saddly we did not win that competition due to an oversite in the rules for the competition that stated the game must have at least x number of levels. We did not use a level system as it was primarly an infinate runner.
             <br>
-            <br> Download the game from here:
+            <br> Download the game here:
             <br>
             <a href="downloads/OrbitalOutrage.exe" class="btn btn-primary" download>Download</a>
         </p>
