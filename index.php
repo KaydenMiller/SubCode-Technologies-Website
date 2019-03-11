@@ -29,7 +29,7 @@
     <div class="content container">
         <div class="row">
             <div id="splash" class="col-xs-offset-2 col-xs-8 col-sm-offset-3 col-sm-6">
-                <img width="100%" src="resources/subcode splash.png" class="img-responsive">
+                <img width="100%" src="resources/SCT 4k 16x9 Logo.png" class="img-responsive">
             </div>
         </div>
         <?php include 'about.php';?>
