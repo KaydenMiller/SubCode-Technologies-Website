@@ -9,7 +9,7 @@
                 Version 2.0.0
             </div>
             <div id="copyright" class="text-center col-xs-6">
-                &copy; SubCode Technologies 2016
+                &copy; SubCode Technologies 2019
             </div>
         </div>
     </div>
